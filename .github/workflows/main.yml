@@ -23,5 +23,3 @@ jobs:
         with:
           name: Brazil-Sensi-Pro-APK
           path: bin/*.apk
-
-          
